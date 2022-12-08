@@ -1,5 +1,5 @@
 # datafree_kd_regression
-Source code for the paper: Data-free knowledge distillation for regression
+Source code for the paper: Data-free knowledge distillation in neural networks for regression
 
 Kang, M., & Kang, S. (2021). Data-free knowledge distillation in neural networks for regression. Expert Systems with Applications, 175, 114813.
 https://doi.org/10.1016/j.eswa.2021.114813
